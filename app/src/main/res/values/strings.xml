@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMStarter</string>
+    <string name="real_admob_app_id">ca-app-pub-3111077037169815~2096976030</string>
+    <string name="real_admob_app_unit_id">ca-app-pub-3111077037169815/8112075261</string>
+
+    <string name="admob_app_id">ca-app-pub-3111077037169815~2096976030</string>
+    <string name="ad_unit_id">ca-app-pub-3111077037169815/8112075261</string>
+    <string name="dream_come_true">Dream Come True</string>
+</resources>
